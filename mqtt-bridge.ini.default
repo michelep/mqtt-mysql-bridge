@@ -1,0 +1,13 @@
+[mqtt]
+host = 
+port = 
+username =
+password =
+devices = device1, device2, device3 ...
+
+[mysql]
+host = 
+port = 
+username = 
+password =
+db =
